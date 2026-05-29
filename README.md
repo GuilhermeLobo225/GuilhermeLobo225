@@ -92,17 +92,4 @@ What I care about is **shipping the whole thing**: a clean data pipeline, a mode
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Espressif](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 
----
-
-### 📊 GitHub in numbers
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GuilhermeLobo225&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&title_color=5EEAD4&icon_color=2DD4BF&text_color=E2E8F0&bg_color=0E1B33" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeLobo225&layout=compact&langs_count=8&hide_border=true&title_color=5EEAD4&text_color=E2E8F0&bg_color=0E1B33" alt="Top languages" />
-</p>
-
----
-
-<p align="center"><i>From modelling the physical world to modelling intelligence — and shipping it.</i></p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0E9594,100:0E1B33&height=120&section=footer" alt="" />

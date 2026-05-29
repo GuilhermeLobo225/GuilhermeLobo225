@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Guilherme Lobo Pinto</h1>
+<h1 align="center">Guilherme Lobo Pinto</h1>
 
 <h3 align="center">AI Master's student · Engineering Physics background · Hands-on with ML, GenAI, multimodal & IoT systems</h3>
 
@@ -16,7 +16,6 @@
 - 📐 B.Sc. in **Engineering Physics**, Universidade do Minho
 - 🔧 Hands-on builder — I like taking projects **end-to-end**, from data and model training to working prototypes across **web, mobile and IoT**
 - 🧠 Interested in **deep learning, generative AI (RAG / LLMs), multimodal systems** and **data-driven engineering**
-- 🎯 Currently seeking a **Summer 2026 internship**
 - 📫 Reach me at **guipinto2004@gmail.com**
 
 ---

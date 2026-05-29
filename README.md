@@ -17,17 +17,12 @@
   <a href="https://linkedin.com/in/guilherme-pinto-366a7b253" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:guipinto2004@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Based%20in-Portugal-0E9594?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://komarev.com/ghpvc/?username=GuilhermeLobo225&label=Profile%20views&color=0E9594&style=flat-square" alt="Profile views" />
-  <a href="https://github.com/GuilhermeLobo225?tab=followers"><img src="https://img.shields.io/github/followers/GuilhermeLobo225?style=flat-square&logo=github&logoColor=white&label=Follow&color=2DD4BF" alt="Follow" /></a>
 </p>
 
 ---
 
 ### 👋 About me
-
-I spent my **Engineering Physics** degree learning to model the physical world — now, in my **Master's in Artificial Intelligence**, I build systems that model intelligence.
-
-What I care about is **shipping the whole thing**: a clean data pipeline, a model that actually trains, and an interface someone can click — on the web, on a phone, or on an **ESP32 stuck to a wall**. I move comfortably from a from-scratch NumPy network to a fine-tuned transformer to a RAG agent running fully offline.
+AI Master's student with an Engineering Physics background. I like building ML & GenAI systems end-to-end — from a clean data pipeline, to a model that trains, to an app someone can actually use.
 
 - 🔭 **Focus:** deep learning · generative AI (RAG / LLMs) · multimodal & audio · data-driven engineering
 - 🌱 **Currently exploring:** multi-agent systems, MLOps, and getting models from notebook to production
